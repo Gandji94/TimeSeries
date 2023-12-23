@@ -1,0 +1,17 @@
+In the following case study, I want to predict a company's revenue measured by sales quantity, average costs and average annual number of employees.
+
+I will use different TimeSeries models to predict the correct revenue passed on a monthly frequency.
+
+Models that were used in the project:
+
+- AutoRegression
+
+- Holt-Winters
+
+    -- SimpleSmoothing
+    
+    -- ExponentialSmoothing
+
+- TBATS
+
+- SARIMA
